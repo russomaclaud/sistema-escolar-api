@@ -11,7 +11,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/proyecto-sistema-escolar/sistema-escolar-back.git"
+        "url": "git+https://github.com/proyecto-sistema-escolar/sistema-escolar-api.git"
     },
     "keywords": [
         "Backend",
@@ -22,9 +22,9 @@
     "author": "Juli, Luis, Efrén",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/proyecto-sistema-escolar/sistema-escolar-back/issues"
+        "url": "https://github.com/proyecto-sistema-escolar/sistema-escolar-api/issues"
     },
-    "homepage": "https://github.com/proyecto-sistema-escolar/sistema-escolar-back#readme",
+    "homepage": "https://github.com/proyecto-sistema-escolar/sistema-escolar-api#readme",
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "cookie-parser": "^1.4.6",
